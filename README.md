@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Col'
+Freelance creative web developer loving art & design
 
 <!--
 **colindmg/colindmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
