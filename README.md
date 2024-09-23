@@ -13,3 +13,4 @@ Freelance web developer - Creative dev & art/design enthousiast
 ![Figma](https://img.shields.io/badge/Figma-101010?style=flat&logoSize=small&logo=figma&logoColor=FFFFFF) 
 ![Python](https://img.shields.io/badge/Python-101010?style=flat&logoSize=small&logo=python&logoColor=FFFFFF) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=flat&logoSize=auto&logo=typescript&logoColor=FFFFFF) 
+![ThreeJS](https://img.shields.io/badge/ThreeJS-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF) 
