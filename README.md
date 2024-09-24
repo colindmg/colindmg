@@ -15,3 +15,4 @@ Freelance web developer - Creative dev & art/design enthousiast
 ![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=flat&logoSize=auto&logo=typescript&logoColor=FFFFFF) 
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF) 
 ![GSAP](https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=FFFFFF) 
+  
