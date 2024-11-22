@@ -2,6 +2,8 @@
 
 Freelance web developer - Creative dev & art/design enthousiast
 
+https://github.com/user-attachments/assets/6c308b5b-68d7-48ef-a980-75d6100e442b
+
 ---
 
 ![X Follow](https://img.shields.io/twitter/follow/colindmg)
