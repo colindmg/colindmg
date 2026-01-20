@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/7924734f-b24a-459b-984a-789b6e0029a7
 ![X Follow](https://img.shields.io/twitter/follow/colindmg)
 ![Gmail](https://img.shields.io/badge/colin.demouge@gmail.com-202020?style=flat&logoSize=small&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/@colindmg-202020?style=flat&logoSize=small&logo=discord&logoColor=white)  
-![React](https://img.shields.io/badge/React-101010?style=flat&logoSize=small&logo=react&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-101010?style=flat&logoSize=small&logo=nuxt&logoColor=FFFFFF)
 ![NextJS](https://img.shields.io/badge/Next-101010?style=flat&logoSize=small&logo=nextdotjs&logoColor=FFFFFF)
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-101010?style=flat&logoSize=small&logo=figma&logoColor=FFFFFF)
