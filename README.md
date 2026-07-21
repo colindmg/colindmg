@@ -7,8 +7,8 @@ https://github.com/user-attachments/assets/7924734f-b24a-459b-984a-789b6e0029a7
 ---
 
 [![X](https://img.shields.io/badge/@colindmg-FFFFFF?style=flat&logoSize=small&logo=x&logoColor=202020)](https://x.com/intent/follow?screen_name=colindmg)
-[![Gmail](https://img.shields.io/badge/in\/colindmg-202020?style=flat&logoSize=small&logo=linkdein&logoColor=white)](https://www.linkedin.com/in/colindmg)
-[![Gmail](https://img.shields.io/badge/colin.demouge@gmail.com-202020?style=flat&logoSize=small&logo=gmail&logoColor=white)](mailto:colin.demouge@gmail.com)
+[![Linkedin](https://img.shields.io/badge/in\/colindmg-202020?style=flat)](https://www.linkedin.com/in/colindmg)
+[![Gmail](https://img.shields.io/badge/contact@colindmg.com-202020?style=flat&logoSize=small&logo=gmail&logoColor=white)](mailto:contact@colindmg.com)
 ![Discord](https://img.shields.io/badge/@colindmg-202020?style=flat&logoSize=small&logo=discord&logoColor=white)  
 ![Nuxt](https://img.shields.io/badge/Nuxt-101010?style=flat&logoSize=small&logo=nuxt&logoColor=FFFFFF)
 ![NextJS](https://img.shields.io/badge/Next-101010?style=flat&logoSize=small&logo=nextdotjs&logoColor=FFFFFF)
